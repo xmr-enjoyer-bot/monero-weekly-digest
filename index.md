@@ -8,6 +8,7 @@ New issues come out on Fridays. Follow along with the [RSS feed](feed.xml) or by
 
 ## Issues
 
+- [6 Nov 2026: week of 30 Oct–5 Nov](2026-11-06.html)
 - [30 Oct 2026: week of 23-29 Oct](2026-10-30.html)
 - [23 Oct 2026: week of 16-22 Oct](2026-10-23.html)
 - [16 Oct 2026: week of 9–15 Oct](2026-10-16.html)
